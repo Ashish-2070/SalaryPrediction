@@ -22,17 +22,17 @@ In the target variable's plot there were some suspicious potential outliers. 1.5
 
 ### Relationship between Target and Input Variable:
 
-![JobType VS Salary](https://user-images.githubusercontent.com/63967431/88534113-038a8b00-d025-11ea-9e06-b272525b9706.PNG) ![Industry VS Salary](https://user-images.githubusercontent.com/63967431/88534392-a0e5bf00-d025-11ea-9bda-2cc42a867644.PNG)
-
-
-
-
+![JobType VS Salary](https://user-images.githubusercontent.com/63967431/88534113-038a8b00-d025-11ea-9e06-b272525b9706.PNG) ![Industry VS Salary](https://user-images.githubusercontent.com/63967431/88534392-a0e5bf00-d025-11ea-9bda-2cc42a867644.PNG) ![Degree VS Salary](https://user-images.githubusercontent.com/63967431/88534367-90cddf80-d025-11ea-97be-5f5e5d8c4b93.PNG) ![Major VS Salary](https://user-images.githubusercontent.com/63967431/88534418-ac38ea80-d025-11ea-8f1e-28e5488340d0.PNG)
+![Years of Experience VS Salary](https://user-images.githubusercontent.com/63967431/88534438-b824ac80-d025-11ea-8987-462a4c9875bb.PNG)
 
 
 From the EDA we can see that:
 
-Job type has a strong positve correlation with salary. That is senior job types has highest salary.
-Oil and finance are the highest paying industries.
-Those with more years of experience are paid higher
-As the distance from metropolis decreases, salary increases
+1.Job type has a strong positve correlation with salary. That is senior job types has highest salary.
+2.Oil and finance are the highest paying industries.
+3.Those with more years of experience are paid higher
+4.As the distance from metropolis decreases, salary increases
+
+Apart from this to get an idea about the correlation between features, a heatmap was plotted.
+![Correlation](https://user-images.githubusercontent.com/63967431/88534438-b824ac80-d025-11ea-8987-462a4c9875bb.PNG)
 

@@ -16,4 +16,6 @@ Numerical and categorical varibles were identified and summarized separately. Th
 
 ### Visualizing Target(Salary) Variable:
 
+![](images/Target%20Variable.jpg)
+
 

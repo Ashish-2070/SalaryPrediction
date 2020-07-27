@@ -37,3 +37,24 @@ Apart from this to get an idea about the correlation between features, a heatmap
 
 ![Correlation](https://user-images.githubusercontent.com/63967431/88534963-bf988580-d026-11ea-9968-5297fc9e3a92.PNG)
 
+### Feature Engineering
+The training data was cleaned, shuffled and reindexed and using one hot encoding categorical data was encoded to get the final training and test dataframes.
+
+### Model Selection and Evaluation:
+The three different regreesion algorithms selected were 1.Linear Regression  2.Random Forest Regression 3.Gradient Boosting Regressor
+
+Mean Squared Error(MSE) is selected as the evaluation metric. The model with lowest MSE is selected has the best model.
+
+### Best Model:
+After doing 5 fold cross validation on each selected models, the following MSE was measured for corresponding models
+
+1.Linear Regression - 393.47
+2.Random Forest Regression - 372.11
+3.Gradient Boosting Regressor - 357.76
+
+So Gradient Boosting Regressor with the lowest MSE was selected as the best model. The model was trained on the entire data set and prdeictions were created based on the test data. Key predictors for this model are yearExperience and milesFrom Metropolis as shown in the Feature Importances plot.
+
+#### Feature Importance:
+![Feature Importance](https://user-images.githubusercontent.com/63967431/88534963-bf988580-d026-11ea-9968-5297fc9e3a92.PNG)
+
+

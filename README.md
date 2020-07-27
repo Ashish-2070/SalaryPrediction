@@ -22,7 +22,7 @@ In the target variable's plot there were some suspicious potential outliers. 1.5
 
 ### Relationship between Target and Input Variable:
 
-![myimage-alt-tag](images/JobType VS Salary.png)
+![](images/JobType%20VS%20Salary.png)
 
 
 

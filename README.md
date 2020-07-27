@@ -34,5 +34,6 @@ From the EDA we can see that:
 4.As the distance from metropolis decreases, salary increases
 
 Apart from this to get an idea about the correlation between features, a heatmap was plotted.
-![Correlation](https://user-images.githubusercontent.com/63967431/88534438-b824ac80-d025-11ea-8987-462a4c9875bb.PNG)
+
+![Correlation](https://user-images.githubusercontent.com/63967431/88534963-bf988580-d026-11ea-9968-5297fc9e3a92.PNG)
 

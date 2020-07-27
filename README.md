@@ -55,6 +55,7 @@ After doing 5 fold cross validation on each selected models, the following MSE w
 So Gradient Boosting Regressor with the lowest MSE was selected as the best model. The model was trained on the entire data set and prdeictions were created based on the test data. Key predictors for this model are yearExperience and milesFrom Metropolis as shown in the Feature Importances plot.
 
 #### Feature Importance:
-![Feature Importance](https://user-images.githubusercontent.com/63967431/88534963-bf988580-d026-11ea-9968-5297fc9e3a92.PNG)
+![Feature Importance](https://user-images.githubusercontent.com/63967431/88535857-5580e000-d028-11ea-995c-d3d2c5167d67.PNG)
 
-
+### Conclusion:
+The Predictive model is working fine and is able to predict salaries for the test dataset. The evaluation metric considered was MSE(Mean Squared Error). THe MSE obtained for the model is 357.76 .There is scope for improvement on the model if advanced feature engineering and stacking/ensembling methods are used.

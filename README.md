@@ -20,6 +20,9 @@ Numerical and categorical varibles were identified and summarized separately. Th
 
 In the target variable's plot there were some suspicious potential outliers. 1.5 IQR rule was used to find the upper and lower bound of suspected outliers. There are 20 Junior positions with salary above the upper bound 220.5. But later after more examination of the data, it was clear that those data should be good as those entries had atleast 18 years of experience and almost most of them has masters or doctoral degree.
 
-### Relationship between Target and Input Variable
+### Relationship between Target and Input Variable:
+
+#### Degree VS Salary
+<img width="334" alt="Degree VS Salary" src="https://user-images.githubusercontent.com/63967431/88532398-27989d00-d022-11ea-9ae0-f0bcc9a5344c.PNG">  
 
 

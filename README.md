@@ -22,8 +22,8 @@ In the target variable's plot there were some suspicious potential outliers. 1.5
 
 ### Relationship between Target and Input Variable:
 
+![myimage-alt-tag](images/JobType VS Salary.png)
 
-<img width="334" alt="Degree VS Salary" src="https://user-images.githubusercontent.com/63967431/88532398-27989d00-d022-11ea-9ae0-f0bcc9a5344c.PNG"> | <img width="318" alt="Industry VS Salary" src="https://user-images.githubusercontent.com/63967431/88532514-5ca4ef80-d022-11ea-88bd-91407653da72.PNG"> | <img width="309" alt="JobType VS Salary" src="https://user-images.githubusercontent.com/63967431/88532993-2156f080-d023-11ea-840f-0750fe5d4a53.PNG"> | 
 
 
 

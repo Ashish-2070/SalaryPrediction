@@ -1,1 +1,3 @@
-# SalaryPrediction
+# SalaryPrediction Project
+
+Introduction

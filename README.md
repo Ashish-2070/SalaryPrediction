@@ -52,7 +52,7 @@ After doing 5 fold cross validation on each selected models, the following MSE w
 2.Random Forest Regression - 372.11
 3.Gradient Boosting Regressor - 357.76
 
-So Gradient Boosting Regressor with the lowest MSE was selected as the best model. The model was trained on the entire data set and prdeictions were created based on the test data. Key predictors for this model are yearExperience and milesFrom Metropolis as shown in the Feature Importances plot.
+So Gradient Boosting Regressor with the lowest MSE was selected as the best model. The model was trained on the entire data set and prdeictions were created based on the test data. Key predictors for this model are JobType and milesFrom Metropolis as shown in the Feature Importances plot.
 
 #### Feature Importance:
 ![Feature Importance](https://user-images.githubusercontent.com/63967431/88535857-5580e000-d028-11ea-995c-d3d2c5167d67.PNG)

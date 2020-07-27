@@ -16,6 +16,10 @@ Numerical and categorical varibles were identified and summarized separately. Th
 
 ### Visualizing Target(Salary) Variable:
 
-![](images/Target%20Variable.jpg)
+![Target Variable](https://user-images.githubusercontent.com/63967431/88532182-c2dd4280-d021-11ea-866d-2f5b5b8265e3.JPG)
+
+In the target variable's plot there were some suspicious potential outliers. 1.5 IQR rule was used to find the upper and lower bound of suspected outliers. There are 20 Junior positions with salary above the upper bound 220.5. But later after more examination of the data, it was clear that those data should be good as those entries had atleast 18 years of experience and almost most of them has masters or doctoral degree.
+
+### Relationship between Target and Input Variable
 
 
